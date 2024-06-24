@@ -54,7 +54,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/gun-violence-tracker.git
+git clone https://github.com/lingamvamshikrishnareddy/gun-violence-tracker.git
 cd gun-violence-tracker
 Open index.html in your browser to view the website.
 
@@ -65,7 +65,7 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
-For questions or suggestions, please contact [Your Name] at [your-email@example.com].
+For questions or suggestions, please contact Lingam Vamshi at lingamvamshikrishnareddy@gmail.com
 
 Acknowledgements
 Thanks to all contributors and supporters of this project.
